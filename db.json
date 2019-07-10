@@ -1,0 +1,104 @@
+{
+    "mortgage": [
+        {
+            "loanType1": [
+                {
+                    "rate": "3.375%",
+                    "APR": "3.436%"
+                }
+            ] 
+        },
+        {
+            "loanType2": [
+                {
+                    "rate": "3.750%",
+                    "APR": "3.836%"
+                }
+            ]
+        },
+        {
+            "loanType3": [
+                {
+                    "rate": "4.250%",
+                    "APR": "5.415%"
+                }
+            ]
+        },
+        {
+            "loanType4": [
+                {
+                    "rate": "3.375%",
+                    "APR": "4.117%"
+                }
+            ]
+        }
+    ],
+
+    "auto": [
+        {
+            "loanType1": [
+                {
+                    "term1": "as low as 3.14%",
+                    "term2": "as low as 3.79%"
+                }
+            ]
+        },
+        {
+            "loanType2": [
+                {
+                    "term1": "as low as 3.69%",
+                    "term2": "as low as 3.99%"
+                }
+            ]
+        },
+        {
+            "loanType3": [
+                {
+                    "term1": "as low as 5.49%"
+                }
+            ]
+        }
+    ],
+
+    "creditCard": [
+        {
+            "myPerksLoan": "12.24% - 18.00%"
+        },
+        {
+            "myPowerLoan": "10.24% - 18.00%" 
+        },
+        {
+            "myPlanLoan": "17.49%"
+        },
+        {
+            "myProLoan": "12.24% - 18.00%"
+        }
+    ],
+
+    "savings": [
+        {
+            "shareType1": [
+                {
+                    "rate": "0.995%",
+                    "APY": "1.00%"
+                }
+            ]
+        },
+        {
+            "shareType2": [
+                {
+                    "rate": "1.933%",
+                    "APY": "1.95%"
+                }
+            ]
+        },
+        {
+            "shareType3": [
+                {
+                    "rate": "2.227%",
+                    "APY": "2.25%"
+                }
+            ]
+        }
+    ]
+}
